@@ -1,6 +1,5 @@
 <div align="center">
 ## Tokyo Console
-</div>
 
 - [x] Update System
 - [x] Email Bomber
