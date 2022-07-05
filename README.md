@@ -7,7 +7,7 @@ How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
 
-## Features
+## Console Features
 
 - [x] Update System
 - [x] Email Bomber
@@ -19,3 +19,15 @@ I will not be held accountable for any illegal activities.
 - [x] Token Checker
 - [ ] Account Nuker
 - [ ] Server Nuker
+
+## Stealer Features
+
+- [ ] Run on Startup
+- [ ] All Passwords
+- [ ] All Cookies
+- [ ] Discord Tokens  
+- [ ] Get Windows Key
+- [ ] Get Steam
+- [ ] Get Mincraft
+- [ ] Get Telegram
+- [ ] Get IpConfig
