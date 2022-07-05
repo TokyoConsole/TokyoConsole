@@ -1,4 +1,3 @@
-<div align="center">
 ## Tokyo Console
 
 - [x] Update System
