@@ -8,5 +8,5 @@
 - [x] Webhook Spammer
 - [x] Build Stealer
 - [x] Token Checker
-- [o] Account Nuker
+- [ ] Account Nuker
 - [x] Server Nuker
