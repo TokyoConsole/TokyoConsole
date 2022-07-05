@@ -9,4 +9,4 @@
 - [x] Build Stealer
 - [x] Token Checker
 - [ ] Account Nuker
-- [x] Server Nuker
+- [ ] Server Nuker
