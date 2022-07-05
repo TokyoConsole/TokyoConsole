@@ -1,4 +1,4 @@
-## Tokyo Console
+## Tokyo Project
 
 - [x] Update System
 - [x] Email Bomber
