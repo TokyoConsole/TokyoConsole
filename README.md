@@ -1,7 +1,4 @@
-<div align="center">
-</div>
-#### Tokyo Console - Features
-
+## Features
 - [x] Update System
 - [x] Email Bomber
 - [x] Proxy Scraper
