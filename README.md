@@ -1,4 +1,4 @@
-## Tokyo Project
+<p align="center"><br><br><a href="https://t.me/TeamDupe"><img src="[https://medv.io/assets/deployer/deployer.gif](https://media.discordapp.net/attachments/1004674098854629457/1034764579999334430/Name.png)" alt="Name" width="530"></a><br><br><br></p>
 
 ## Disclaimer
 
