@@ -1,4 +1,4 @@
-![TokyoConsole](https://media.discordapp.net/attachments/1004674098854629457/1034764579999334430/Name.png)
+![TokyoConsole](https://media.discordapp.net/attachments/1004674098854629457/1034770768426446868/Name.png)
 
 ## Disclaimer
 
@@ -7,7 +7,7 @@ How you use this program is your responsibility.<br />
 <br />
 I will not be held accountable for any illegal activities.
 
-![Features](https://media.discordapp.net/attachments/1004674098854629457/1034766717513121824/features.png)
+![Features](https://media.discordapp.net/attachments/1004674098854629457/1034770798646411284/features.png)
 
 - [x] Update System
 - [x] Email Bomber
